@@ -4,7 +4,9 @@ Implementation of a minimal aircraft simulation program based on a given UML cla
 ## Compile & run
 
 $>find . -name "*.java" > sources.txt
+
 $>javac @sources.txt
+
 $>java Simulator scenario.txt
 
 ## Help & referances
